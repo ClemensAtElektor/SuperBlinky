@@ -7,7 +7,7 @@
  */
 
 uint8_t led1 = 13;
-uint8_t led2 = 5;
+uint8_t led2 = 6;
 
 void setup(void)
 {
